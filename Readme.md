@@ -41,3 +41,6 @@ Input the desired size of the n-gram (e.g., 2 for bigram, 3 for trigram).
 3. **Generated Sentence:**
 
 The script will generate and display a sentence based on the specified parameters.
+
+## Note:
+If choose to use the notebook instead, open it in colab and make sure the Excuses.xml file is in the content directory. Or you can put it elsewhere but make sure to update the file path in the script.
